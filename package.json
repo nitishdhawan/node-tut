@@ -1,0 +1,22 @@
+{
+  "name": "yokohoma",
+  "version": "1.0.0",
+  "description": "nothing",
+  "main": "app.js",
+  "scripts": {
+    "test": "dance"
+  },
+  "repository": {
+    "type": "git",
+    "url": "repo"
+  },
+  "keywords": [
+    "nothing"
+  ],
+  "author": "nitish",
+  "license": "ISC",
+  "dependencies": {
+    "loadash": "^1.0.0",
+    "lodash": "^4.17.21"
+  }
+}
